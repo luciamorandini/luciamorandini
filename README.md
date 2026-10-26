@@ -25,6 +25,8 @@ I build web applications, mostly on the frontend and with exposure to backend in
 
 ## Stack
 
+<img align="right" src="assets/panda-sit.png" alt="Pixel art red panda sitting" width="230">
+
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" title="Tailwind CSS" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap" title="Bootstrap" width="48" hspace="3">
 
@@ -33,6 +35,8 @@ I build web applications, mostly on the frontend and with exposure to backend in
 
 **Data and tools**<br>
 <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" title="Supabase" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="48" hspace="3"> <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker" width="48" hspace="3">
+
+<br clear="right">
 
 ## Featured project
 
