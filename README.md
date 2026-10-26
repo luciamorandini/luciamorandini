@@ -36,20 +36,18 @@ I build web applications, mostly on the frontend and with exposure to backend in
 
 ## Featured project
 
-<a href="https://unimaps-pi.vercel.app"><img align="left" src="assets/unimaps-home.jpg" alt="UniMaps home screen: Campus UNSL Conectado" width="430"></a>
+<a href="https://unimaps-pi.vercel.app"><img align="left" src="assets/unimaps-window.png" alt="UniMaps home screen: Campus UNSL Conectado" width="470"></a>
 
 ### [UniMaps](https://unimaps-pi.vercel.app)
 
 Accessible indoor navigation for the UNSL campus. Undergraduate thesis, co-developed in a two-person team and currently live.
 
-- Routes built on a graph of ramps, elevators and cross-floor connections
-- Real-time incident reporting
-- Admin panel to edit maps, nodes and connections
-- Built following WCAG 2.2
+&bull; Routes built on a graph of ramps, elevators and cross-floor connections<br>
+&bull; Real-time incident reporting<br>
+&bull; Admin panel to edit maps, nodes and connections<br>
+&bull; Built following WCAG 2.2
 
-`React` `Next.js` `Node.js` `PostgreSQL` `pgRouting` `Socket.io` `Tailwind CSS`
-
-<br clear="left">
+<p><br clear="left"><img src="https://img.shields.io/badge/React-6d1530?style=for-the-badge" alt="React" hspace="4"> <img src="https://img.shields.io/badge/Next.js-6d1530?style=for-the-badge" alt="Next.js" hspace="4"> <img src="https://img.shields.io/badge/Node.js-6d1530?style=for-the-badge" alt="Node.js" hspace="4"> <img src="https://img.shields.io/badge/PostgreSQL-6d1530?style=for-the-badge" alt="PostgreSQL" hspace="4"> <img src="https://img.shields.io/badge/pgRouting-6d1530?style=for-the-badge" alt="pgRouting" hspace="4"> <img src="https://img.shields.io/badge/Socket.io-6d1530?style=for-the-badge" alt="Socket.io" hspace="4"> <img src="https://img.shields.io/badge/Tailwind_CSS-6d1530?style=for-the-badge" alt="Tailwind CSS" hspace="4"></p>
 
 <details>
 <summary><b>Versión en español</b></summary>
