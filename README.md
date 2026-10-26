@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Lucia Morandini, Software Engineer | Web Developer" width="100%">
+  <img src="assets/panda.png" alt="Pixel art red panda" width="220">
 </p>
 
+<h1 align="center">Lucia Morandini</h1>
+
+<p align="center">Software Engineer | Web Developer<br>San Luis, Argentina</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/luciamorandini">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="mailto:luciamorandini23@gmail.com">luciamorandini23@gmail.com</a> &nbsp;/&nbsp;
-  <a href="https://unimaps-pi.vercel.app">UniMaps</a>
+  <a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://unimaps-pi.vercel.app"><img src="https://img.shields.io/badge/UniMaps-6d1530?style=for-the-badge&logo=vercel&logoColor=white" alt="UniMaps"></a>
 </p>
 
 <br>
