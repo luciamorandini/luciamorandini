@@ -28,15 +28,13 @@ I build web applications, mostly on the frontend and with exposure to backend in
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" title="Tailwind CSS" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap" title="Bootstrap" width="54" hspace="4">
 
-<img align="right" src="assets/panda-sit-floor.png" alt="Pixel art red panda sitting" width="170" hspace="40">
+<img align="right" src="assets/panda-sit-floor.png" alt="Pixel art red panda sitting" width="197" hspace="30">
 
 **Backend**<br>
 <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring Boot" title="Spring Boot" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" title="Node.js" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" title="Express" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" title="Python" width="54" hspace="4">
 
 **Data and tools**<br>
 <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" title="Supabase" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="54" hspace="4"> <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker" width="54" hspace="4">
-
-<hr>
 
 ## Featured project
 
