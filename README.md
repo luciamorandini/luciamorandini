@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/panda.png" alt="Pixel art red panda" width="220">
+  <img src="assets/gatito.png" alt="Pixel art orange kitten" width="220">
 </p>
 
 <h1 align="center">Lucia Morandini</h1>
