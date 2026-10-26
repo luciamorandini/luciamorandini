@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="619" height="30" viewBox="0 0 619 30" role="img" aria-label="React, Next.js, Node.js, PostgreSQL, pgRouting, Socket.io, Tailwind CSS">
+<title>React, Next.js, Node.js, PostgreSQL, pgRouting, Socket.io, Tailwind CSS</title>
+<rect x="2" y="2" width="62" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="33.0" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">React</text>
+<rect x="72" y="2" width="68" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="106.0" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">Next.js</text>
+<rect x="148" y="2" width="71" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="183.5" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">Node.js</text>
+<rect x="227" y="2" width="97" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="275.5" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">PostgreSQL</text>
+<rect x="332" y="2" width="86" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="375.0" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">pgRouting</text>
+<rect x="426" y="2" width="81" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="466.5" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">Socket.io</text>
+<rect x="515" y="2" width="102" height="26" rx="4" fill="#6d1530" fill-opacity="0.22" stroke="#a23058" stroke-opacity="0.7" stroke-width="1"/>
+<text x="566.0" y="19.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#c25577">Tailwind CSS</text>
+</svg>

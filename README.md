@@ -47,7 +47,7 @@ Accessible indoor navigation for the UNSL campus. Undergraduate thesis, co-devel
 &bull; Admin panel to edit maps, nodes and connections<br>
 &bull; Built following WCAG 2.2
 
-<p><br clear="left"><img src="https://img.shields.io/badge/React-6d1530?style=for-the-badge" alt="React" hspace="4"> <img src="https://img.shields.io/badge/Next.js-6d1530?style=for-the-badge" alt="Next.js" hspace="4"> <img src="https://img.shields.io/badge/Node.js-6d1530?style=for-the-badge" alt="Node.js" hspace="4"> <img src="https://img.shields.io/badge/PostgreSQL-6d1530?style=for-the-badge" alt="PostgreSQL" hspace="4"> <img src="https://img.shields.io/badge/pgRouting-6d1530?style=for-the-badge" alt="pgRouting" hspace="4"> <img src="https://img.shields.io/badge/Socket.io-6d1530?style=for-the-badge" alt="Socket.io" hspace="4"> <img src="https://img.shields.io/badge/Tailwind_CSS-6d1530?style=for-the-badge" alt="Tailwind CSS" hspace="4"></p>
+<p align="center"><br clear="left"><br><img src="assets/tech-row.svg" alt="React, Next.js, Node.js, PostgreSQL, pgRouting, Socket.io, Tailwind CSS"></p>
 
 <details>
 <summary><b>Versión en español</b></summary>
