@@ -2,7 +2,7 @@
 
 <p align="center"><b>Software Engineer | Web Developer</b><br>San Luis, Argentina</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Portfolio-4a4048?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIwLjU1IiBkPSJNMjAgNmgtNFY0YzAtMS4xMS0uODktMi0yLTJoLTRjLTEuMTEgMC0yIC44OS0yIDJ2Mkg0Yy0xLjExIDAtMS45OS44OS0xLjk5IDJMMiAxOWMwIDEuMTEuODkgMiAyIDJoMTZjMS4xMSAwIDItLjg5IDItMlY4YzAtMS4xMS0uODktMi0yLTJ6bS02IDBoLTRWNGg0djJ6Ii8%2BPC9zdmc%2B" alt="Portfolio"></p>
+<p align="center"><a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a name="portfolio"><img src="assets/portfolio-badge.svg" alt="Portfolio"></a></p>
 
 ## About
 
