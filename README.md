@@ -2,7 +2,7 @@
 
 <p align="center"><b>Software Engineer | Web Developer</b><br>San Luis, Argentina</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://unimaps-pi.vercel.app"><img src="https://img.shields.io/badge/UniMaps-6d1530?style=for-the-badge&logo=vercel&logoColor=white" alt="UniMaps"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://unimaps-pi.vercel.app"><img src="https://img.shields.io/badge/UniMaps-6d1530?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDJDOC4xMyAyIDUgNS4xMyA1IDljMCA1LjI1IDcgMTMgNyAxM3M3LTcuNzUgNy0xM2MwLTMuODctMy4xMy03LTctN3ptMCA5LjVhMi41IDIuNSAwIDEgMSAwLTUgMi41IDIuNSAwIDAgMSAwIDV6Ii8%2BPC9zdmc%2B" alt="UniMaps"></a></p>
 
 ## About
 
