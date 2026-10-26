@@ -1,16 +1,19 @@
-<p align="center">
-  <img src="assets/header.gif" alt="Pixel art red panda waving hello" width="260">
-</p>
-
-<h1 align="center">Lucia Morandini</h1>
-
-<p align="center">Software Engineer | Web Developer<br>San Luis, Argentina</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://unimaps-pi.vercel.app"><img src="https://img.shields.io/badge/UniMaps-6d1530?style=for-the-badge&logo=vercel&logoColor=white" alt="UniMaps"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h1>Lucia Morandini</h1>
+      <p>Software Engineer | Web Developer<br>San Luis, Argentina</p>
+      <p>
+        <a href="https://www.linkedin.com/in/luciamorandini"><img src="https://img.shields.io/badge/LinkedIn-6d1530?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="mailto:luciamorandini23@gmail.com"><img src="https://img.shields.io/badge/Email-6d1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="https://unimaps-pi.vercel.app"><img src="https://img.shields.io/badge/UniMaps-6d1530?style=for-the-badge&logo=vercel&logoColor=white" alt="UniMaps"></a>
+      </p>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/header.gif" alt="Pixel art red panda waving hello" width="260">
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -52,13 +55,24 @@ I build web applications, mostly on the frontend and with exposure to backend in
 
 ## Featured project
 
-<a href="https://unimaps-pi.vercel.app">
-  <img src="assets/unimaps.svg" alt="UniMaps: accessible indoor navigation for the UNSL campus" width="100%">
-</a>
-
-Undergraduate thesis, co-developed in a two-person team and currently live. Routes avoid stairs by using a graph of ramps, elevators and cross-floor connections; users report incidents in real time and admins edit maps, nodes and connections from a panel. Built following WCAG 2.2.
-
-`React` `Next.js` `Node.js` `PostgreSQL` `pgRouting` `Socket.io` `Tailwind CSS`
+<table width="100%">
+  <tr>
+    <td width="48%" valign="middle">
+      <a href="https://unimaps-pi.vercel.app"><img src="assets/unimaps-home.jpg" alt="UniMaps home screen: Campus UNSL Conectado" width="100%"></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://unimaps-pi.vercel.app">UniMaps</a></h3>
+      <p>Accessible indoor navigation for the UNSL campus. Undergraduate thesis, co-developed in a two-person team and currently live.</p>
+      <ul>
+        <li>Routes built on a graph of ramps, elevators and cross-floor connections</li>
+        <li>Real-time incident reporting</li>
+        <li>Admin panel to edit maps, nodes and connections</li>
+        <li>Built following WCAG 2.2</li>
+      </ul>
+      <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>pgRouting</code> <code>Socket.io</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+</table>
 
 <br>
 
